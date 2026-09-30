@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--alicenetwork-2v9uw15o.com/sitemap.xml
